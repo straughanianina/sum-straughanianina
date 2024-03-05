@@ -1,0 +1,27 @@
+{
+  "name": "sum-straughanianina",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-straughanianina": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/straughanianina/sum-straughanianina"
+  },
+  "homepage": "https://twitter.com/KiuHiNhi289658",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "straughanianina",
+  "license": "MIT"
+}
